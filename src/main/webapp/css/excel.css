@@ -1,0 +1,15 @@
+td {
+	border-right: thin solid #DADCDD;
+	border-bottom: thin solid #DADCDD;
+	mso-number-format:'\@';
+}
+
+table {
+	border: thin hidden #DADCDD;
+	text-align: center;
+}
+
+.th1 {
+	border-top: thin solid #DADCDD;
+	background-color: #F90;
+}
